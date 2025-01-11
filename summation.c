@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main()
 {
+    // Code to find addition of two numbers
     float A,B,ADD;
     printf("Enter the two numbers : ");
     scanf("%f %f",&A,&B),
