@@ -1,5 +1,4 @@
 #include<stdio.h>
-#include "simpleinterest.h"
 int main()
 {
     // CODE TO FIND THE SIMPLE INTEREST
